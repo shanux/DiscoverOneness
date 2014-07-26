@@ -1,0 +1,2 @@
+	#019FA2--Discover "d"
+	#565656--Help "h"

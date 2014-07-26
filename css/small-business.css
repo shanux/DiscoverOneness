@@ -9,3 +9,31 @@ footer {
 #topbar{
 	margin-top:-40px;
 }
+#cart{
+	margin-top: 20px;
+}
+#new-board-btn {
+    white-space: normal;
+    width: 100px;
+}
+#panel-height{
+	height:inherit;
+}
+
+
+
+
+
+#header{
+	margin-top:20px;
+	
+}
+#navbar-modified {
+ position: relative;
+  height:30px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
+#panel_steps{
+	background-color:#F00;
+}
